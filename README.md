@@ -1,1 +1,1 @@
-Atualizando meu README
+Atualizando arquivo INDEX, STYLE e SCRIPT
