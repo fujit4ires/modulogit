@@ -1,1 +1,1 @@
-Meu primeiro exercício no GIT
+Atualizando meu README
